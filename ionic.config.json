@@ -1,0 +1,7 @@
+{
+  "name": "ClaseTH",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
